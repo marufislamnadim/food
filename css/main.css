@@ -1,0 +1,92 @@
+		body{
+			text-emphasis: center;
+		}
+		#Header{
+			color: orange;
+			background-color: black;
+			font-size: 3rem;
+		}
+		#Footer{
+			color: chocolate;
+			background-color: black;
+			font-size: 3rem;
+		}
+		#upper{
+			text-transform: uppercase;
+		}		
+		#low{
+			text-transform: lowercase;
+		}
+		#up{
+			text-transform: lowercase;
+		}		
+		#down{
+			text-transform: uppercase;
+		}
+		/*
+		.seagreen{
+			color: seagreen;
+			background-color: gainsboro;
+			font-size: 1rem;
+		}
+		.goldenrod{
+			color: goldenrod;
+			background-color: grey;
+			font-size: 2rem;
+		}
+		*/
+		/*div{
+			text-transform: uppercase;
+			background: black; 
+		}*/
+		span{
+			text-transform: uppercase;
+			/*background-color: yellow;*/
+		}
+		.hard{
+			color: gold;
+			background:  gray;
+		}
+		.cool{
+
+			color: gold;
+			background-color: black
+		}
+		
+		/*h1 {
+			color: green;
+			font-size: 3rem;
+		   }
+		h2 {
+			color: red;
+			font-size: 2.5rem;
+		   }*/
+		h3 {
+			color: green;
+			font-size: 2rem;
+		   }
+		h4 {
+			color: orange;
+			font-size: 1.5rem;
+		   }
+		h5 {
+			color: darkred;
+			font-size: 1rem;
+		   }
+		h6 {
+			color: crimson;
+			font-size: 1rem;
+		   }
+/*
+		p{
+			color: lime;
+			background-color: gray;
+		}
+
+/*  CSS commenting syntax*/
+/*  CSS rules*/
+/*  selector*/
+/*  declaration block*/
+/*  declaration */
+/*  valus */
+/* Inheritance*/
